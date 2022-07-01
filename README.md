@@ -6,4 +6,10 @@
    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pizza app created using React Js and Node Js. 
 Signup and login functionalities are included. Users can place order based on the varieties and prices available. Online payment mode also available. </p>
 
+**Demo card number:** 4242 4242 4242 4242
+
+**Expiry:** 10/24
+
+**CVV:** 212
+
 
